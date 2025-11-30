@@ -28,13 +28,29 @@ and the one when you get 6, and you don't want to get that one:
 
 How to make it works (that's for those who don't usually get used to those tools obviously):
 
+
 First thing is, having Node.js installed: https://nodejs.org/
 
-Then, launch your command prompt and check if this is donwloaded by typing this:
+
+Secondly, launch your command prompt and check if this is donwloaded by typing this:
 
 <img width="87" height="38" alt="Capture d&#39;écran 2025-11-30 185837" src="https://github.com/user-attachments/assets/e74d980c-dd78-4d9a-b8ec-e9fd957be591" />
+
 
 and you should get:
 
 <img width="111" height="20" alt="Capture d&#39;écran 2025-11-30 185843" src="https://github.com/user-attachments/assets/306e0018-63a8-48b4-962f-886910a8e6c5" />
 
+
+Then, go to the path were you downloaded the RussianRoulette (cd 'path') project in the cmd and run the command below, to launch the server:
+
+<img width="174" height="46" alt="Capture d&#39;écran 2025-11-30 182442" src="https://github.com/user-attachments/assets/dd250ec5-2b63-4bbe-a0e7-824895c72709" />
+
+
+and you should get this in the command prompt (that message I did set):
+
+<img width="761" height="44" alt="Capture d&#39;écran 2025-11-30 182456" src="https://github.com/user-attachments/assets/76af485a-4860-496f-9487-cb9c88be8d30" />
+
+
+CTRL + click on the link and you should get to the HTML page.
+Now you can finally, (maybe) delete your Windows folder !
