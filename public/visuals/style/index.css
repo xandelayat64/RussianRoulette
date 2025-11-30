@@ -1,0 +1,56 @@
+.bodyi {
+    background: linear-gradient(90deg, #1b122e, #2d2048)
+}
+
+.container {
+    display: flex; 
+    justify-content: center;
+}
+
+h1 {
+    font-family: 'Arial', sans-serif;
+    color: #ffffff;
+    text-align: center;
+}
+
+button {
+    width: 150px;
+    height: 75px;
+    border-radius: 10px;
+    background: linear-gradient(90deg, #ff1105, #ff501f);
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Arial', sans-serif;
+    transition: background-color 0.3s;
+}
+
+    button:active {
+        transform: scale(0.95);
+        background: linear-gradient(90deg, #b43131, #aa5428);
+    }
+
+.safe {
+    font-family: 'Arial', sans-serif;
+    color: #4ade80;
+    background-color: rgba(#4ade80, 0.1);
+}
+
+.boom {
+    font-family: 'Arial', sans-serif;
+    color: #ef4444;
+    background-color: rgba(#ef4444, 0.1);
+    animation: shake 0.5s;
+}
+
+#lucky {
+    align-content: center;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 1.5em;
+    font-weight: bold;
+    min-height: 50px;
+    padding: 20px;
+    border-radius: 10px;
+    transition: all 0.3s;
+}
